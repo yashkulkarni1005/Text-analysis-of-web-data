@@ -1,0 +1,2 @@
+1.Data Extraction.ipynb contains code related to text extraction from the links given in input.xlsx file and extracted data is stored in input_text_data folder.
+2.Text Analysis.ipynb contains code to perform text analysis as mentioned in word document(Text Analysis) and output is stored in Output Data Structure Updated.xlsx file.
